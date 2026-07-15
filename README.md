@@ -2,4 +2,4 @@
 
 Code will be released soon.
 
-![Model Architecture](model_architecture.png)
+![Model Architecture](Model architecture.png)
